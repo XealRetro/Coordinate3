@@ -11,7 +11,7 @@ package cord;
  */
 public class Points3 {
     
-    public  int x;
+    public int x;
     public int y;
     public int z;
     public int ax;
